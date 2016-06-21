@@ -1,0 +1,13 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="33210f3f-4d63-4c67-8fb8-a83d15c9d544" name="password on security.mosmetod.ru" url="http://corp.mosmetod.ru">
+        <fileTransfer host="corp.mosmetod.ru" port="22" rootFolder="/home/sil" accessType="SFTP" password="dfdddffddff1dfcedfe2df98dff5dfebdfcddfcddf8bdfe2dffe" username="sil">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
