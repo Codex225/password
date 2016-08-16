@@ -8,6 +8,9 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="ac51e43e-6c8a-48b5-be33-7e00836af1cf" name="mismatch" url="http://localhost">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
